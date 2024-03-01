@@ -24,14 +24,7 @@
 
 1. Scan QR - [Click here](https://gpt-qr-web-scaner.onrender.com/cyber-x.html)
 
-2. Fork the Repo - [Click here](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT/fork)
-
-3. Go app.json and Change "repostory" Url's user name to your user name ( Line 04 )
-
-4. Create your own Heroku template Link `https://heroku.com/deploy?template={Your repo Link}`
-
-5. Deploy now without Heroku Suspend
-
+2. Heroku template Link `https://heroku.com/deploy?template={Your repo Link}`
 
 ## Features
 
